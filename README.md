@@ -82,7 +82,7 @@ var Scene1 = new Phaser.Class(_.extend(SceneBase,{
     }
 
     updateEx: function (time, delta) {
-        //loop game
+        //game loop
     }
 
 }));
@@ -116,10 +116,6 @@ var Scene1 = new Phaser.Class(_.extend(SceneBase,{
                 scene: "Scene2"
             }
         );
-    }
-
-    updateEx: function (time, delta) {
-        //loop game
     }
 
 }));
