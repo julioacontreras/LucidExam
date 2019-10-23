@@ -75,7 +75,6 @@ var Scene1 = new Phaser.Class(_.extend(SceneBase,{
 
     preloadEx: function () {
         //create images and stuff
-
     }
 
     createEx: function (data) {
